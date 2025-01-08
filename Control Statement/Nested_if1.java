@@ -1,7 +1,5 @@
-// nested if statement 
-package ControlStatements;
-
-
+// Control Statement
+// nested if statement
 public class Nested_if1 {
 
     public static void main(String[] args) {
