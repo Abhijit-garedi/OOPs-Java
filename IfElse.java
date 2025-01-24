@@ -18,4 +18,4 @@ import java.util.*;
         }
     }
     
-    // ut
+    // this program was to demonastarte the if else condition 
