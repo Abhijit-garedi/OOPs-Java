@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exp1",
+            "request": "launch",
+            "mainClass": "Exp1",
+            "projectName": "OOPs-Java-6_cd656200"
+        },
+        {
+            "type": "java",
             "name": "WhileLoopExample",
             "request": "launch",
             "mainClass": "WhileLoopExample",
