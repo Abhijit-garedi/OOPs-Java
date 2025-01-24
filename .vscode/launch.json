@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rect",
+            "request": "launch",
+            "mainClass": "Rect",
+            "projectName": "OOPs-Java-6_cd656200"
+        },
+        {
+            "type": "java",
             "name": "Exp1",
             "request": "launch",
             "mainClass": "Exp1",
