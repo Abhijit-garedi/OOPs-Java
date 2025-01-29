@@ -6,14 +6,14 @@ public class cons {
 
     // Constructor
     cons() {
-        name = "hari"; // String should be in double quotes
+        name = "hari"; 
         age = 20;
     }
 }
 
-class Constr { // Corrected class declaration
+class Constr { 
     public static void main(String args[]) {
-        cons s = new cons(); // Corrected object instantiation
+        cons s = new cons(); 
         System.out.println(s.name);
         System.out.println(s.age);
     }
