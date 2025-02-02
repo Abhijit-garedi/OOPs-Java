@@ -1,0 +1,7 @@
+java.util 
+  -- it is required when using utilies like Scanner,Arraylist etc 
+
+Package name;
+  -- package name is optional you can include if you want 
+  
+    
