@@ -1,7 +1,4 @@
-//package is optional
-package demo;
 
-package demo;
 
 class Exp {
     static String name; // Static variable
