@@ -20,3 +20,8 @@ public class EvenOdd {
         scanner.close();
     }
 }
+
+/* output
+Enter a number: 12
+12 is even.
+ */
