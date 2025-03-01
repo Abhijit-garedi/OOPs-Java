@@ -1,5 +1,4 @@
-// file name is cons.java in folder Constructor
- class Student {
+class Student {
     int rollNo;
     String name;
 
