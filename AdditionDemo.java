@@ -3,7 +3,7 @@ class Cal {
     int num1;
     int num2;
 
-    // Method to add two numbers
+    // Method to add two numbers 
     int add() {
         return num1 + num2;
     }
