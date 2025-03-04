@@ -33,7 +33,7 @@ class C extends B {
 // Main Class
 public class Multi_level_inheritance  {  
     public static void main(String args[]) {  
-        C obj = new C();  // creating object of C
+        C obj = new C();  // creating object of C class( grand child)
         obj.sum();  // calling sum() method
     }  
 }
